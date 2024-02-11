@@ -9,26 +9,26 @@ export interface SocialMediaLink {
 
 // Define the structure of a coin
 export interface Coin {
-  tokenName: string
-  tokenTicker: string
-  tokenAmount: string
-  nftAmount: string
-  tick: string
-  tokenDescription: string
-  bridgeContract: string
-  tokenContract: string
-  coinLogo: string // path to the logo image
-  socialMediaLinks: SocialMediaLink[]
-  nftToTokenSwapAmount: number
-  tokenToNftSwapAmount: number
-  decimals: number
-  isToken22: boolean
-  taxBPS: number
-  isSplit?: boolean
-  creatorFee?: number
-  creatorFeeTreasury?: string
-  nftSupply?: number
-  nftMinted?: number
+  tokenName: Honey Badger  
+  tokenTicker: $badger
+  tokenAmount: 4200000
+  nftAmount: 420
+  tick: 0.000001
+  tokenDescription: We are the first SPL20 honey badger - new meme narrative - first token launched on Bozo launchpad that make it that far - honey badger DGAF
+  bridgeContract: 5dgxbHXuaG5D42eZbXSTxSMu61qqsinjtYZitMRaNMh9
+  tokenContract: 9V4x6ikFm9XKsnh3TiYJWPwQfFkJZDjifu7VSUqg3es1
+  coinLogo: https://bafybeid32j2uhizizt77t5au2xekwprplqn2k4thirubwkrvnb2cgadije.ipfs.nftstorage.link
+  socialMediaLinks: Twitter https://twitter.com/badgerspl20 Discord (https://discord.gg/jK5kAD8J6M) Telegram https://t.me/+qUbF2XF4KNwzMGI0
+  nftToTokenSwapAmount: 1
+  tokenToNftSwapAmount: 10000
+  decimals: 9
+  isToken22: true
+  taxBPS: 0
+  isSplit?: 
+  creatorFee?: 0.01
+  creatorFeeTreasury?: 0
+  nftSupply?: 420
+  nftMinted?: 420
 }
 
 // Import icon components
