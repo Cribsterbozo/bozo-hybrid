@@ -33,28 +33,28 @@ Please ensure your submission includes the following information:
 
 | Property                     | Value                       |
 |------------------------------|-----------------------------|
-| **Coin Logo**                | URL to your logo            |
-| **Token Name**               | Your Token's Name           |
-| **Token Ticker**             | Your Token's Ticker         |
-| **Token Amount**             | Total Token Supply          |
-| **Tick**                     | Token Tick                  |
-| **Decimals**                 | Number of Decimals          |
-| **NFT to Token Swap Amount** | Swap Amount                 |
-| **Token to NFT Swap Amount** | Swap Amount                 |
-| **Token Description (75 Char)** | Short Token Description  |
-| **Bridge Contract**          | Your Bridge Contract Address|
-| **Token Contract**           | Your Token Contract Address |
-| **Token22**                  | True/False                  |
-| **Tax to Token (BPS)**       | Enter 0 if no bps tax       |
-| **Website**                  | Your Website URL            |
-| **Twitter**                  | Your Twitter URL            |
-| **Discord**                  | Your Discord URL            |
-| **Telegram**                 | Your Telegram URL           |
-| **Tiktok**                   | Your Tiktok URL             |
-| **GeckoTerminal**            | Your GeckoTerminal URL      |
-| **Magic Eden**               | Your Magic Eden URL         |
-| **Tensor**                   | Your Tensor URL             |
-| **Solsniper**                | Your Solsniper URL          |
+| **Coin Logo**                | https://bafybeid32j2uhizizt77t5au2xekwprplqn2k4thirubwkrvnb2cgadije.ipfs.nftstorage.link/         |
+| **Token Name**               | Honey Badger          |
+| **Token Ticker**             | $badger        |
+| **Token Amount**             | 4200000          |
+| **Tick**                     | 0.000001                  |
+| **Decimals**                 | 9          |
+| **NFT to Token Swap Amount** | 10000                |
+| **Token to NFT Swap Amount** | 1 for 10000 tokens  - 420 NFTs in total              |
+| **Token Description (75 Char)** | We are the first SPL20 honey badger - new meme narrative - first token launched on Bozo launchpad that make it that far - honey badger DGAF |
+| **Bridge Contract**          | 5dgxbHXuaG5D42eZbXSTxSMu61qqsinjtYZitMRaNMh9 |
+| **Token Contract**           | 9V4x6ikFm9XKsnh3TiYJWPwQfFkJZDjifu7VSUqg3es1 |
+| **Token22**                  | True                  |
+| **Tax to Token (BPS)**       | 0  |
+| **Website**                  |           |
+| **Twitter**                  |https://twitter.com/badgerspl20        |
+| **Discord**                  | (https://discord.gg/jK5kAD8J6M)         |
+| **Telegram**                 | https://t.me/+qUbF2XF4KNwzMGI0          |
+| **Tiktok**                   |             |
+| **DexScreener**            | https://dexscreener.com/solana/8gphkuyyq9wyultrsrmbqhmfbsjfdcpjihnarzgie1si     |
+| **Magic Eden**               |        |
+| **Tensor**                   |             |
+| **Solsniper**                | (https://www.sniper.xyz/collection/badger3)        |
 
 Ensure all the provided information is accurate and complete to facilitate a smooth process.
 
